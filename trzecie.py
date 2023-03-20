@@ -13,7 +13,7 @@ print("1. " + answers1[0])
 print("2. " + answers1[1])
 print("3. " + answers1[2])
 print("4. " + answers1[3])
-choice1 = int(input("Wybierz odpowiedź (podaj numer): "))
+choice1 = int(input("wybierz odpowiedź (podaj numer): "))
 
 print(question2)
 print("1. " + answers2[0])
